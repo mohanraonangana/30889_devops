@@ -1,0 +1,15 @@
+cdd handout here 
+This folder contains the files for Lab1:
+
+index.html - The main HTML file.
+styles.css - The stylesheet for the webpage.
+image.jpg - An image displayed on the webpage.
+README.txt - A brief description of the project.
+All files are pushed to a GitHub repository for version control and sharing.
+
+
+
+
+
+
+
